@@ -1,4 +1,4 @@
 SquareMarines
 =============
 
-Game code
+Game code.
